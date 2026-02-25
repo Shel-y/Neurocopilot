@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual env
+.venv/
+env/
+venv/
+neurocopilot/
+
+# Environment variables
+.env
+
+# Streamlit cache
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+*.egg-info/
+*.egg
+dist/
+build/
+
+*.zip

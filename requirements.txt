@@ -1,0 +1,19 @@
+# Core dependencies
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+plotly>=6.0
+
+# Web interface
+gradio>=3.39
+
+# Data validation
+pydantic>=2.2
+
+# Testing
+pytest>=7.4
+
+# Optional (only needed to run with real Ollama LLM on CPU):
+# langchain-core>=0.0.239
+# langchain-ollama>=1.0.0
+# For CPU-only inference with Ollama, set OLLAMA_NUM_GPU=0 before running
