@@ -31,6 +31,14 @@ This project combines:
 
 ---
 
+## 🧠 AI Stack
+
+This project uses:
+- Local LLMs running via Ollama
+- LangChain / LangGraph for agent orchestration
+- Python environment
+  
+
 ## 🖥 Interface Preview
 
 ### Live EEG Scan
@@ -157,17 +165,17 @@ pytest
 
 ## 🚀 Future Work
 
-Multi-channel EEG simulation
+- Multi-channel EEG simulation
 
-Real-time streaming signals
+- Real-time streaming signals
 
-Explainability metrics
+- Explainability metrics
 
-AWS / Cloud deployment
+- AWS / Cloud deployment
 
-Quantum ML experimentation
+- Quantum ML experimentation
 
-Specialist feedback interface
+- Specialist feedback interface
 
 ## 👩‍💻 Author
 
@@ -180,3 +188,4 @@ Innovation Developer
 ## 📜 License
 
 MIT License
+
