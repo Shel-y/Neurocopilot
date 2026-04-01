@@ -177,6 +177,22 @@ pytest
 
 - Specialist feedback interface
 
+## ☁️ Cloud Roadmap
+Currently architected for local deployment. 
+Planned migration to AWS:
+- Lambda functions for agent orchestration
+- S3 for EEG session storage  
+- CloudWatch for pipeline monitoring
+- API Gateway for external integrations
+
+## RESUMEN DE PRIORIDADES ESTA SEMANA
+```
+Hoy (30 min)     → GitHub Profile README + pinear repos
+Mañana (1 hora)  → Topics + descripciones en los 3 repos  
+                   + Cloud Roadmap en NeuroCopilot
+Pasado (20 min)  → Actualizar bullet en CV
+Esta semana      → Enviar mensaje a Natalia
+
 ## 👩‍💻 Author
 
 Joselyn Lagunas (Shel)
