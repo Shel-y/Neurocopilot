@@ -185,21 +185,9 @@ Planned migration to AWS:
 - CloudWatch for pipeline monitoring
 - API Gateway for external integrations
 
-## RESUMEN DE PRIORIDADES ESTA SEMANA
-```
-Hoy (30 min)     → GitHub Profile README + pinear repos
-Mañana (1 hora)  → Topics + descripciones en los 3 repos  
-                   + Cloud Roadmap en NeuroCopilot
-Pasado (20 min)  → Actualizar bullet en CV
-Esta semana      → Enviar mensaje a Natalia
-
 ## 👩‍💻 Author
 
 Joselyn Lagunas (Shel)
-Software Engineer · AI & Interactive Systems
-
-AWS Community Speaker
-Innovation Developer
 
 ## 📜 License
 
