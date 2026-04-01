@@ -188,7 +188,7 @@ Planned migration to AWS:
 ## 👩‍💻 Author
 
 Joselyn Lagunas (Shel)
-
+Software Engineer · Adaptive AI & Human-Centered Systems · AWS Cloud · Speaker @AWSome Women Summit LATAM & AWS Community Day
 ## 📜 License
 
 MIT License
